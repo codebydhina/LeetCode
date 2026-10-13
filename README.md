@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/codebydhina/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/codebydhina/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codebydhina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/codebydhina/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/codebydhina/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/codebydhina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/codebydhina/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/codebydhina/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |

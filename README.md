@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/codebydhina/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/codebydhina/LeetCode/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/codebydhina/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/codebydhina/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codebydhina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/codebydhina/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/codebydhina/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
